@@ -1,7 +1,5 @@
 # 🐾 Sistema de Registro de Mascotas - Clínica Veterinaria Pet-XYZ
 
-![Veterinary Banner](https://via.placeholder.com/800x200.png?text=Pet-XYZ+Veterinary+Clinic)
-
 ## 📋 Descripción
 Este proyecto implementa un sistema en línea para la clínica veterinaria Pet-XYZ, permitiendo a médicos veterinarios y asistentes registrar información de tres tipos de animales: 🐶 Perros, 🐱 Gatos y 🐰 Conejos. El sistema utiliza un formulario web para capturar datos del animal y su dueño, y muestra la información recopilada en una lista.
 
@@ -66,7 +64,7 @@ Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cambi
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
 ## 📞 Contacto
-Para cualquier consulta o sugerencia, por favor contacta a [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com).
+Para cualquier consulta o sugerencia, por favor contacta a [Luis Suarez](mailto:suarezluis.ea@gmail.com).
 
 ---
 
